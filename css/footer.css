@@ -1,0 +1,355 @@
+footer {
+  width: 100vw;
+  position: fixed;
+  bottom: 10px;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-block__Q {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__W {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__E {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__R {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__T {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__Y {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__U {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__I {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__O {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__P {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.keyboard-block__A {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__S {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__D {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__F {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__G {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__H {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__J {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__K {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__L {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__ENT {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 73px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__Z {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__X {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__C {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__V {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__B {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__N {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__M {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.keyboard-block__DEL {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 73px;
+  height: 65px;
+  margin: 5px 5px 0 0;
+  background-color: rgb(211, 214, 218);
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
